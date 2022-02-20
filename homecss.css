@@ -1,0 +1,54 @@
+.navbar {
+    background-color: rgba(0, 2, 100, 0.2);
+    height: 30px;
+    border: 10px;
+    border-style: double;
+    border-radius: 10px;
+}
+h1{
+    display: inline;
+    margin-right: 9%;
+    margin-left: 4%;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    color :black;
+}
+a:hover{
+    color: brown!important;
+}
+body{
+    background: linear-gradient(90deg, rgb(5, 1, 78) 0%, rgba(80,80,189,1) 35%, rgba(0,212,255,1) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body div  {
+    display: inline;
+    margin: auto;
+
+}
+.logoHome :hover{
+height:320px;
+width: 320px;
+border-radius: 10px solid;
+}
+img {
+    height: 300px;
+    width: 300px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.footer{
+    background-color: rgba(0, 2, 100, 0.2);
+    height: 30px;
+    border: 10px;
+    border-style: double;
+    border-radius: 10px;
+}
+.footer h1{
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 30%;
+}
